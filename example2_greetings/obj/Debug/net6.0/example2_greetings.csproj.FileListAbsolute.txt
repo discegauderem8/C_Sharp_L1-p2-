@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.AssemblyInfo.cs
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\bin\Debug\net6.0\example2_greetings.exe
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\bin\Debug\net6.0\example2_greetings.deps.json
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\bin\Debug\net6.0\example2_greetings.runtimeconfig.json
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\bin\Debug\net6.0\example2_greetings.dll
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\bin\Debug\net6.0\example2_greetings.pdb
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.dll
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\refint\example2_greetings.dll
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.pdb
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\example2_greetings.genruntimeconfig.cache
+C:\Users\Admin\Documents\Geek Brains\НОВАЯ ПАПКА С#\Введение в языки программирования\L1\example2_greetings\obj\Debug\net6.0\ref\example2_greetings.dll
